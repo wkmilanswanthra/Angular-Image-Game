@@ -1,6 +1,6 @@
-# AngularApp
+# Image Game
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
+The goal of this game is to select the image similar to the given image among 4 visually similar images.
 
 ## Development server
 
